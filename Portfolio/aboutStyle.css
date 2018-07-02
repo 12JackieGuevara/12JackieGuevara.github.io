@@ -1,0 +1,17 @@
+*{
+    text-align:center
+}
+
+p{
+    width:50%;
+    padding:4em;
+    border: 5px solid gray;
+    margin:3em;
+}
+img{
+    box-sizing:border-box;
+    float:right;
+    width: 50%;
+    position: relative;
+    margin: 2em;
+}
