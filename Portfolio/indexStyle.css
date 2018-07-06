@@ -1,11 +1,14 @@
 body{ 
-    background-image: url(https://t4.ftcdn.net/jpg/01/40/66/79/240_F_140667942_rchXvTGfwe1a7xI0fSNOfUEJbgxKuRVb.jpg)
+    background-image: url(https://i.pinimg.com/originals/0c/c8/c8/0cc8c83d2766cb3ad8771fb8604370d3.jpg);
+    background-size:100%;
 }
+
 a{
     animation-name:baby;
     animation-duration: 10s;
     color:white;
     font-size:17px;
+    
 }
 h2{
     font-size:40px;
@@ -39,3 +42,4 @@ font-family: 'Galada', cursive;
     100%{
         transform:scale(1);
     }   
+
