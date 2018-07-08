@@ -1,17 +1,32 @@
 *{
-    text-align:center
+    text-align:center;
 }
 
 p{
-    width:50%;
+    width:40%;
     padding:4em;
-    border: 5px solid gray;
-    margin:3em;
+    border:5px solid gray;
+    margin:2em;
 }
 img{
     box-sizing:border-box;
     float:right;
-    width: 50%;
-    position: relative;
-    margin: 2em;
+    width:40%;
+    position:relative;
+}
+p{
+    float:right;
+    position:relative;
+}
+a{
+    list-style-type:none;
+    margin:30px;
+    padding:14px 16px;
+    text-decoration: none;
+    overflow:hidden;
+    color:white;
+    background-color:black;
+    display:block;
+    float:left;
+    border:solid;
 }
